@@ -1,3 +1,4 @@
 Inicio del paso 3 en el archivo avance.txt
 Seguimos dentro del archivo avance.txt
 Última modificación dentro del archivo avance.txt
+Primera funcionalidad: versión alternativa desde la rama main.
