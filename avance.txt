@@ -1,0 +1,1 @@
+Primera funcionalidad: versión alternativa desde la rama main.
