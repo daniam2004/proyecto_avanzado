@@ -1,1 +1,2 @@
 Inicio del paso 3 en el archivo avance.txt
+Seguimos dentro del archivo avance.txt
